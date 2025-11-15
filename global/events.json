@@ -1,1 +1,69 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "id": "newyear",
+      "type": "yearly",
+      "startMonth": 12,
+      "startDay": 28,
+      "endMonth": 1,
+      "endDay": 5,
+      "preloadDaysBefore": 7,
+      "assets": "https://raw.githubusercontent.com/skykickstco-svg/MeowMeow_data/main/events/01_newyear/assets.json"
+    },
+    {
+      "id": "valentine",
+      "type": "yearly",
+      "startMonth": 2,
+      "startDay": 10,
+      "endMonth": 2,
+      "endDay": 20,
+      "preloadDaysBefore": 5,
+      "assets": "https://raw.githubusercontent.com/skykickstco-svg/MeowMeow_data/main/events/02_valentine/assets.json"
+    },
+    {
+      "id": "songkran",
+      "type": "yearly",
+      "startMonth": 4,
+      "startDay": 10,
+      "endMonth": 4,
+      "endDay": 20,
+      "preloadDaysBefore": 7,
+      "assets": "https://raw.githubusercontent.com/skykickstco-svg/MeowMeow_data/main/events/04_songkran/assets.json"
+    },
+    {
+      "id": "halloween",
+      "type": "yearly",
+      "startMonth": 10,
+      "startDay": 20,
+      "endMonth": 10,
+      "endDay": 31,
+      "preloadDaysBefore": 7,
+      "assets": "https://raw.githubusercontent.com/skykickstco-svg/MeowMeow_data/main/events/10_halloween/assets.json"
+    },
+    {
+      "id": "loykrathong",
+      "type": "yearly",
+      "startMonth": 11,
+      "startDay": 1,
+      "endMonth": 11,
+      "endDay": 30,
+      "preloadDaysBefore": 10,
+      "assets": "https://raw.githubusercontent.com/skykickstco-svg/MeowMeow_data/main/events/11_loykrathong/assets.json"
+    },
+    {
+      "id": "christmas",
+      "type": "yearly",
+      "startMonth": 12,
+      "startDay": 15,
+      "endMonth": 12,
+      "endDay": 27,
+      "preloadDaysBefore": 7,
+      "assets": "https://raw.githubusercontent.com/skykickstco-svg/MeowMeow_data/main/events/12_christmas/assets.json"
+    }
+  ],
+  "fallback": {
+    "defaultAssets": "https://raw.githubusercontent.com/skykickstco-svg/MeowMeow_data/main/global/fallback.json"
+  }
+}
 
