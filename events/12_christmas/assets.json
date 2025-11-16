@@ -1,0 +1,35 @@
+{
+  "eventId": "christmas",
+  "version": 1,
+  "startScreen": {
+    "background": "images/start_bg.png",
+    "logo": "images/start_logo.png",
+    "startButton": {
+      "normal": "images/start_button_normal.png",
+      "hover": "images/start_button_hover.png"
+    }
+  },
+  "mapScreen": {
+    "background": "images/map_background.png",
+    "biomes": {
+      "cyan": "images/map_bkg_cyan.png",
+      "green": "images/map_bkg_green.png",
+      "orange": "images/map_bkg_orange.png",
+      "pink": "images/map_bkg_pink.png",
+      "yellow": "images/map_bkg_yellow.png"
+    },
+    "floatingLanterns": [
+      "images/map_floating_01.png",
+      "images/map_floating_02.png"
+    ]
+  },
+  "inGameScreen": {
+    "backgrounds": {
+      "cyan": "images/ingame_bkg_cyan.png",
+      "green": "images/ingame_bkg_green.png",
+      "orange": "images/ingame_bkg_orange.png",
+      "pink": "images/ingame_bkg_pink.png",
+      "yellow": "images/ingame_bkg_yellow.png"
+    }
+  }
+}
